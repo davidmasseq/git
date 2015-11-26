@@ -1,0 +1,5 @@
+commit 66f522b181690ebf7bdb5c6641ccc74e2a95e804
+Author: david vargas <davidvargasmasseq@gmail.com>
+Date:   Thu Nov 26 17:10:41 2015 -0500
+
+    README creado
